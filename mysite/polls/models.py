@@ -25,4 +25,3 @@ class Choice(models.Model):
         return self.choice_text
     
     
-    
